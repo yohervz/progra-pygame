@@ -1,4 +1,4 @@
-# 🎮 ¡Bienvenido a tu Juego de Plataformas 2D en Pygame!
+# ¡Bienvenido a tu Juego de Plataformas 2D en Pygame!
 
 ¡Hola! Esta es la base de tu nuevo videojuego de plataformas desarrollado con **Python** y **Pygame**.
 
