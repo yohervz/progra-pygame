@@ -1,4 +1,4 @@
-# 🎮 Plantilla Base: Juego de Plataformas 2D en Pygame
+# Plantilla Base: Juego de Plataformas 2D en Pygame
 
 ¡Bienvenido/a a la base de tu nuevo juego de plataformas!
 
