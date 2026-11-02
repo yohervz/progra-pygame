@@ -1,4 +1,4 @@
-# ¡Bienvenido a tu Juego de Plataformas 2D en Pygame!
+# Bienvenido a tu Juego de Plataformas 2D en Pygame
 
 ¡Hola! Esta es la base de tu nuevo videojuego de plataformas desarrollado con **Python** y **Pygame**.
 
@@ -6,7 +6,7 @@ La plantilla está diseñada para que puedas aprender, experimentar y construir 
 
 ---
 
-## 📁 Cómo está organizado tu proyecto
+## Como está organizado tu proyecto
 
 ```text
 platformer/
@@ -41,7 +41,7 @@ platformer/
 
 ---
 
-## 🚀 Cómo jugar y probar tu juego
+## Como jugar y probar tu juego
 
 ### 1. Ejecutar el juego
 Abre tu terminal y escribe:
@@ -58,7 +58,7 @@ python platformer/tests/test_platformer.py
 
 ---
 
-## 🎨 ¿Qué pasa si aún no tienes tus propios dibujos o sprites?
+## Que pasa si aun no tienes tus propios dibujos o sprites?
 
 > **¡Tu juego nunca fallará por falta de imágenes!**
 
@@ -69,7 +69,7 @@ Cada objeto (`Player`, `Enemy`, `Platform`) cuenta con un **sistema de respaldo 
 
 ---
 
-## 🗺️ Guía para personalizar tu juego paso a paso
+## Guia para personalizar tu juego paso a paso
 
 Te recomendamos ir modificando tu juego en este orden:
 
